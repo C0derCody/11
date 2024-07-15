@@ -1,0 +1,47 @@
+{
+    "sections": [
+        {
+            "displayname": "Request Information",
+            "fields": [
+                "Employee/Intern/SEE Name",
+                "Request Type",
+                "Employee Type",
+                "Effective Date"
+            ]
+        },
+        {
+            "displayname": "Office and Location Information",
+            "fields": [
+                "Requesting Office",
+                "Building",
+                "Office / Room & Cubicle",
+                "Office Provisioning POC",
+                "Office POC Availability"
+            ]
+        },
+        {
+            "displayname": "Remote Provision Only",
+            "fields": [
+                "Home Address (Only if remote provision)",
+                "Additional Address Fields (Apt Num)",
+                "Personal Email Address (Remote Provision Only)",
+                "Personal Phone Number (Remote Provision Only)"
+            ]
+        },
+        {
+            "displayname": "Details & Reassignments Only",
+            "fields": [
+                "Detail/Reassignment WCF POC",
+                "Detail/Reassignment Org",
+                "FROM Move Location"
+            ]
+        },
+        {
+            "displayname": "Other Information",
+            "fields": [
+                "Special Equipment Required",
+                "Additional Comments"
+            ]
+        }
+    ]
+}
